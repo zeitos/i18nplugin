@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">cordovaExample</string>
+    <string name="defaultname">Test I18N</string>
+    <string name="connecting_to_device">Connecting to Device</string>
+    <string name="device_is_ready">Ready Device Is</string>
+</resources>
