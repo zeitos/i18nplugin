@@ -1,6 +1,9 @@
 I18N Cordova Plugin for Android
 =======================================
 This plugin allows you to internationalize your application 
+The internationalization happens ondeviceReady so it is recommended that you use a splash screen.
+
+This is the first version still under development, contributions are wellcome :D
 
 Adding the Plugin to your project
 =================================
